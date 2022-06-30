@@ -1,7 +1,7 @@
 # Driver-Invoice-App
 
 ## Overview
-# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Driver-Invoice-App/blob/main/Screenshots/driverApp.gif)
+# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Driver-Invoice-App//main/Screenshots/driverApp.gif)
 
 ## Requirements
 Windows 10 
