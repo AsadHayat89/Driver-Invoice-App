@@ -5,11 +5,21 @@
 
 ## Requirements
 Windows 10 
+Must have Bluetooth printer
+
 
 
 ## Details
-This project is developed in dart language integrated with firebase. The thing which make this project different from other is Catagories. User can save created pdf into different catagories and then check from these catagories. User can also create new catagorie and can delete old-one. User can also see recent open files and can also change the theme in black mode.
+This project helps driver to maintain invoice records. We have different applications for shopkeepers and other to keep invoice, But we haven’t seen any such application for drivers. So this would help drivers to maintain record of customer. This application provide following functionalities.
+* Create Invoice on customer's arrival
+*	Can print invoice through Bluetooth printer.
+*	User can search any invoice based on date, time and by name.
+*	User can see earning record through bar chart.
+*	User can see earning record through table.
+*	User can add password through whole application.
+*	User can send SAF mail to owner for backup. others 
 
+For futhure information contact me through mail
 ## Author Information
 ### Name
 Asad Hayat
