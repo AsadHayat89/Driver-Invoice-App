@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366467915227",
+    "project_id": "newt-289c7",
+    "storage_bucket": "newt-289c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366467915227:android:de09576d84e2b9f171dbfe",
+        "android_client_info": {
+          "package_name": "com.example.newtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366467915227-g1v1ucaethuvqibas5ngqjbgv6k05b5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwHPQzgpQSDSnVb2uWJeZhbrPDbBRiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366467915227-g1v1ucaethuvqibas5ngqjbgv6k05b5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

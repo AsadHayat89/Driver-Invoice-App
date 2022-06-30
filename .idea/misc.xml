@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/border_1dp.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/buttonshapewhitebg.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/cardbackground.xml" value="0.1125" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/circularshap.xml" value="0.11875" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/switch_thumb_selector.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/switch_track_selector.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/texteditdraw.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/drawable/withourcircular.xml" value="0.11875" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_accountant.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_add_security.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_change_pin2.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_found_printer.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_graphs.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_invoice_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_invoice_setting.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_invoive_new_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_list_all_invoice.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_list_data_ffrom_invoice.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_login.xml" value="0.27442371020856204" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_manual_reciept.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_menu.xml" value="0.12" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_printer_result.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_saf_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sales_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sales_menu2.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sales_per_day.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sales_per_month.xml" value="0.1296875" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sales_per_year.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_by_date.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_by_month.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_by_name.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_by_year.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_date_menu.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_search_invoice_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_security_pin.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_select_grap_tab.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_setting_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_showinvoice.xml" value="0.14" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_simplified_invoice.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_table.xml" value="0.1" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/activity_user_setting.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/item_row.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/listdataforprinter.xml" value="0.15760869565217392" />
+        <entry key="..\:/Users/Asad Hayyat/AndroidStudioProjects/NewTravel/app/src/main/res/layout/printitems.xml" value="0.15760869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

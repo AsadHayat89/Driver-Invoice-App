@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.newtravel">
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NewTravel">
+        <activity
+            android:name=".Accountant"
+            android:exported="false" />
+        <activity
+            android:name=".Settings.SecurityPin"
+            android:exported="false" />
+        <activity
+            android:name=".Settings.AddSecurity"
+            android:exported="false" />
+        <activity
+            android:name=".Settings.ChangePin"
+            android:exported="false" />
+        <activity
+            android:name=".InvoiceSetting"
+            android:exported="false" />
+        <activity
+            android:name=".UserSetting"
+            android:exported="false" />
+        <activity
+            android:name=".RecycleSearchPrinter.PrinterResult"
+            android:exported="false" />
+        <activity
+            android:name=".Printer.FoundPrinter"
+            android:exported="false" />
+        <activity
+            android:name=".RecycleSearchPrinter.listDataFfromPrinter"
+            android:exported="true" />
+        <activity
+            android:name=".GraphAndTables.Table"
+            android:exported="false" />
+        <activity
+            android:name=".GraphAndTables.Graphs"
+            android:exported="false" />
+        <activity
+            android:name=".Sales.SalesPerYear"
+            android:exported="false" />
+        <activity
+            android:name=".Sales.SalesPerMonth"
+            android:exported="false" />
+        <activity
+            android:name=".Sales.SelectGrapTab"
+            android:exported="false" />
+        <activity
+            android:name=".Sales.SalesPerDay"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoice.SearchByYear"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoice.SearchByMonth"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoice.SearchDateMenu"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoice.SearchByDate"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoice.SearchByName"
+            android:exported="false" />
+        <activity
+            android:name=".Recyle.listDataFfromInvoice"
+            android:exported="false" />
+        <activity
+            android:name=".SearchInvoiceMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Showinvoice"
+            android:exported="true" />
+        <activity
+            android:name=".MAnualReciept"
+            android:exported="false" />
+        <activity
+            android:name=".SimplifiedInvoice"
+            android:exported="false" />
+        <activity
+            android:name=".InvoiveNewMenu"
+            android:exported="false" />
+        <activity
+            android:name=".SafMenu"
+            android:exported="false" />
+        <activity
+            android:name=".SettingMenu"
+            android:exported="false" />
+        <activity
+            android:name=".SalesMenu"
+            android:exported="false" />
+        <activity
+            android:name=".InvoiceMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".SignUp"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
