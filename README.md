@@ -4,8 +4,8 @@
 # ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Driver-Invoice-App//main/Screenshots/driverApp.gif)
 
 ## Requirements
-Windows 10 
-Must have Bluetooth printer
+* Windows 10 
+* Must have Bluetooth printer
 
 
 
